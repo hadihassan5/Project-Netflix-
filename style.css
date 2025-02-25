@@ -83,7 +83,6 @@ nav button {
     color: rgb(255, 255, 255);
     font-size: 1rem;
     font-weight: 500;
-    /* line-height: 4; */
 }
 
 .sepration {
@@ -118,7 +117,6 @@ input {
 
     border-radius: 4px;
     padding: 16px 0px;
-    /* border-color: gainsboro; */
     padding-right: 125px;
     padding-left: 12px;
     font-size: 14px;
@@ -347,61 +345,7 @@ footer a {
         grid-template-columns: 1fr 1fr;
         gap: 25px;
     }
-
-    /* .footer {
-
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 29px;
-    } */
 }
-
-/* @media screen and (min-width:932px) {
-    .hero-buttons {
-        font-family: 'Poppins', sans-serif;
-        margin-top: 3px;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        gap: 13px;
-    }
-
-    .secImg img {
-        width: 305px;
-        right: -1px;
-    }
-
-    .secImg video {
-        width: 305px;
-        right: 1px;
-    }
-
-    .secImg img {
-        width: auto;
-        max-width: 100%;
-        height: auto;
-        min-width: 400px;
-    }
-
-    .secImg video {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 100%;
-        max-width: 900px;
-        margin: auto;
-    }
-
-    .faq h2 {
-        margin: auto 165px;
-    }
-
-    footer {
-        margin-top: 30px;
-    }
-} */
-
 
 .footer a {
     font-size: 14px;

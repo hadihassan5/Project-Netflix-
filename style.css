@@ -61,6 +61,7 @@ nav button {
     line-height: 1.4;
     padding: 0px 20px;
     gap: 7px;
+
 }
 
 .hero> :nth-child(1) {
@@ -129,6 +130,25 @@ input {
     border: 1px solid rgba(142, 141, 141, 0.9);
 }
 
+.mem{
+    border-radius: 4px;
+    padding: 16px 0px;
+    padding-right: 325px;
+    padding-left: 12px;
+    font-size: 14px;
+    position: relative;
+    font-weight: 700;
+    color: white;
+
+    background-color: rgba(23, 23, 23, 0.9);
+    border: 1px solid rgba(142, 141, 141, 0.9);
+}
+.membership{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    margin-bottom: 14px;
+}
 .hero-buttons {
     font-family: 'Poppins', sans-serif;
     margin-top: 3px;
@@ -136,6 +156,7 @@ input {
     justify-content: center;
     align-items: center;
     gap: 13px;
+    margin-bottom: 40px;
 }
 
 .first {
@@ -221,6 +242,7 @@ footer {
 }
 
 footer a {
+    
     font-size: 17px;
     color: rgba(255, 255, 255, 0.7);
 
